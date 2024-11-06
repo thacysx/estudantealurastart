@@ -38,6 +38,9 @@ p {
   overflow-x: auto;
   gap: 10px;
 }
+img {
+    height: 130px;
+}
 
 .categoria {
   padding-left: 20px;
