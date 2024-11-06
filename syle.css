@@ -36,7 +36,6 @@ p {
 img {
   height: 130px;
 }
-
 .categoria-videos {
   display: flex;
   overflow-x: auto;
